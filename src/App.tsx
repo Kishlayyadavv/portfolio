@@ -9,7 +9,7 @@ function App() {
       <header className="container mx-auto px-4 py-20 flex flex-col items-center justify-center text-center animate-fade-in">
         <div className="w-40 h-40 rounded-full overflow-hidden mb-6 hover-glow">
           <img 
-            src="/profile.jpg" 
+            src="https://drive.google.com/file/d/1Fet5Q5yIPyJlolSM56C25n6WVvDd6HyH/view?usp=drive_link" 
             alt="Kishlay Yadav"
             className="w-full h-full object-cover hover-scale"
           />
