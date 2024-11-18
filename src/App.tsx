@@ -9,7 +9,7 @@ function App() {
       <header className="container mx-auto px-4 py-20 flex flex-col items-center justify-center text-center animate-fade-in">
         <div className="w-40 h-40 rounded-full overflow-hidden mb-6 hover-glow">
           <img 
-            src="./profile.jpg" 
+            src="dist\assets\profile.jpg" 
             alt="Kishlay Yadav"
             className="w-full h-full object-cover hover-scale"
           />
@@ -49,7 +49,7 @@ function App() {
               I'm dedicated to writing clean, maintainable code and creating exceptional user experiences.
             </p>
             <div className="flex justify-center mt-8">
-              <a href="../Kishlay_Resume-hackerresume (1).pdf" download 
+              <a href="dist\assets\Kishlay_Resume-hackerresume (1).pdf" download 
                 className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-[0_0_20px_rgba(37,99,235,0.5)]">
                 <Download className="w-5 h-5" /> Download Resume
               </a>
